@@ -1,12 +1,12 @@
 body {
-    background-color: #DFEFF0;
+    background-color: #F1DEDE;
     color: #333333;
-    font-family: "Arial", Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
-    color: #AD235D;
-    border-bottom: 1px solid #AD235D; 
+    color: #5d576b;
+    border-bottom: 1px solid #d496a7; 
 }
 
 h2 {
