@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF1FA;
+    background-color: #edcb96;
     color: #333333;
     font-family: "Courier New", Courier, monospace;
     line-height: 1.7;
@@ -23,7 +23,7 @@ p {
     line-height: 1.5em;
 }
 
-p:nth-of-type (odd) {
+p:nth-of-type(odd) {
     background-color: #f7c4a5;
 }
 
