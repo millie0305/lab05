@@ -33,10 +33,14 @@ ul {
 }
 
 a {
-    color: #f7c4a5;
+    color: #615770;
     text-decoration: none;
 }
 
 a:hover {
-    color: #9e7682; 
+    color: #4d4861; 
 } 
+
+p:nth-of-type(odd){
+    background-color: #cb9d94;
+}
