@@ -1,23 +1,30 @@
 body {
-    background-color: #F1DEDE;
+    background-color: #edcb96;
     color: #333333;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Courier New", Courier, monospace;
+    line-height: 1.7;
 }
 
 h1 {
-    color: #d496a7;
-    border-bottom: 1px solid #997789; 
+    color: #9e7682;
+    text-align: center;
+    border-bottom: 3px solid #9e7682; 
 }
 
 h2 {
-    color: #b78798;
+    color: #615770;
+    text-align: center;
     font-weight: normal;
-    border-bottom: 2px solid #997789;
+    border-bottom: 3px solid #615770;
 }
 
 p {
     margin-top: 0px;
     line-height: 1.5em;
+}
+
+p:nth-of-type (odd) {
+    background-color: #f7c4a5;
 }
 
 ol {
@@ -29,10 +36,10 @@ ul {
 }
 
 a {
-    color: #e3bac3;
+    color: #f7c4a5;
     text-decoration: none;
 }
 
 a:hover {
-    color: #d496a7; 
+    color: #9e7682; 
 } 
