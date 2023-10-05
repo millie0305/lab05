@@ -28,11 +28,12 @@ p:nth-of-type (odd) {
 }
 
 ol {
-    padding-left: 12px;
+    margin-bottom: 6px;
 }
 
 ul {
-    padding-left: 12px;
+    list-style-type: square;
+    margin-bottom: 6px;
 }
 
 a {
