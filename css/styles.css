@@ -33,12 +33,17 @@ ul {
 }
 
 a {
-    color: #615770;
+    color: #f2b79f;
     text-decoration: none;
 }
 
+.special-text {
+    font-style: bold;
+    color: #f2b79f;
+}
+
 a:hover {
-    color: #4d4861; 
+    color: #efbc9b; 
 } 
 
 p:nth-of-type(odd){
